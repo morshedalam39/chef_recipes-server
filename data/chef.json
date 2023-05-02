@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1",
+    "chefPicture": "https://i.ibb.co/pWm5GfC/hhh6.jpg",
+    "chefName": "John Smith",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 3,
+    "likes": 5000,
+    "descriptionForFoods": "Chef John specializes in Italian cuisine, with a focus on pasta dishes. His signature ."
+  },
+  {
+    "id": "2",
+    "chefPicture": "https://i.ibb.co/C0zBP3c/hue.jpg",
+    "chefName": "Emily Lee",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 3,
+    "likes": 4500,
+    "descriptionForFoods": "Chef Emily is known for her Asian fusion dishes, blending traditional Korean flavors with modern ."
+  },
+  {
+    "id": "3",
+    "chefPicture": "https://i.ibb.co/bbhCVyD/huh3.jpg",
+    "chefName": "Carlos Rodriguez",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 3,
+    "likes": 6000,
+    "descriptionForFoods": "Chef Carlos grew up in Mexico and specializes in authentic Mexican cuisine. He makes ."
+  },
+  {
+    "id": "4",
+    "chefPicture": "https://i.ibb.co/vQrtjbd/gg.jpg",
+    "chefName": "Sara Patel",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 3,
+    "likes": 4000,
+    "descriptionForFoods": "Chef Sara is a vegetarian and specializes in plant-based cuisine. Her dishes are colorful, flavorful."
+  },
+  {
+    "id": "5",
+    "chefPicture": "https://i.ibb.co/C0zBP3c/hue.jpg",
+    "chefName": "Alex Kim",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 3,
+    "likes": 5500,
+    "descriptionForFoods": "Chef Alex is a sushi master, with over a decade of experience working in top sushi restaurants around."
+  },
+  {
+    "id": "6",
+    "chefPicture": "https://i.ibb.co/pWm5GfC/hhh6.jpg",
+    "chefName": "Maria Hernandez",
+    "yearsOfExperience": 7,
+    "numberOfRecipes": 3,
+    "likes": 4200,
+    "descriptionForFoods": "Chef Maria is a pastry chef who specializes in French desserts. Her macarons are delicate and delicious."
+  }
+]
+
+
+
+
