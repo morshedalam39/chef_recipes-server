@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1111",
+    "chef_id": "1",
+    "recipe_name": "Spaghetti Bolognese",
+    "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic"],
+    "rating": 4.5,
+    "cooking_method": "boiling"
+  },
+  {
+    "id": "22222",
+    "chef_id": "1",
+    "recipe_name": "Chicken Tikka Masala",
+    "ingredients": ["chicken", "yogurt", "tomato puree", "spices", "cream"],
+    "rating": 4.8,
+    "cooking_method": "grilling"
+  },
+  {
+    "id": "3333",
+    "chef_id": "1",
+    "recipe_name": "Vegetable Stir-Fry",
+    "ingredients": ["broccoli", "carrots", "mushrooms", "snow peas", "soy sauce"],
+    "rating": 4.2,
+    "cooking_method": "stir-frying"
+  },
+  {
+    "id": "4444",
+    "chef_id": "2",
+    "recipe_name": "Beef Stroganoff",
+    "ingredients": ["beef", "sour cream", "mushrooms", "onion", "noodles"],
+    "rating": 4.7,
+    "cooking_method": "sauteing"
+  },
+  {
+    "id": "5555",
+    "chef_id": "2",
+    "recipe_name": "Fish Tacos",
+    "ingredients": ["fish", "tortillas", "cabbage", "lime", "salsa"],
+    "rating": 4.4,
+    "cooking_method": "grilling"
+  },
+  {
+    "id": "666",
+    "chef_id": "2",
+    "recipe_name": "Pad Thai",
+    "ingredients": ["rice noodles", "shrimp", "eggs", "peanuts", "bean sprouts"],
+    "rating": 4.9,
+    "cooking_method": "stir-frying"
+  },
+  {
+    "id": "777",
+    "chef_id": "3",
+    "recipe_name": "Beef and Broccoli",
+    "ingredients": ["beef", "broccoli", "soy sauce", "garlic", "cornstarch"],
+    "rating": 4.3,
+    "cooking_method": "stir-frying"
+  },
+  {
+    "id": "888",
+    "chef_id": "3",
+    "recipe_name": "Chicken Alfredo",
+    "ingredients": ["chicken", "fettuccine", "heavy cream", "parmesan cheese", "garlic"],
+    "rating": 4.6,
+    "cooking_method": "sauteing"
+  },
+  {
+    "id": "999",
+    "chef_id": "3",
+    "recipe_name": "Roasted Vegetables",
+    "ingredients": ["carrots", "potatoes", "onion", "zucchini", "olive oil"],
+    "rating": 4.1,
+    "cooking_method": "roasting"
+  },
+ {
+    "id": "10",
+    "chef_id": "4",
+    "recipe_name": "Classic Spaghetti Bolognese",
+    "ingredients": ["spaghetti", "ground beef", "canned tomatoes", "onion", "garlic"],
+    "rating": 4.5,
+    "cooking_method": "Boil spaghetti, brown beef and onion, add tomatoes and garlic, simmer sauce, serve over spaghetti"
+  },
+  {
+    "id": "11",
+    "chef_id": "4",
+    "recipe_name": "Thai Red Curry Chicken",
+    "ingredients": ["chicken breast", "coconut milk", "red curry paste", "bamboo shoots", "bell peppers"],
+    "rating": 4.7,
+    "cooking_method": "Cook chicken, saute vegetables, simmer in curry sauce, serve over rice"
+  },
+  {
+    "id": "12",
+    "chef_id": "4",
+    "recipe_name": "Beef and Broccoli Stir Fry",
+    "ingredients": ["beef sirloin", "broccoli", "soy sauce", "oyster sauce", "garlic"],
+    "rating": 4.2,
+    "cooking_method": "Marinate beef, stir fry with broccoli and garlic, add sauce, serve over rice"
+  },
+  {
+    "id": "13",
+    "chef_id": "5",
+    "recipe_name": "Vegetable Lasagna",
+    "ingredients": ["lasagna noodles", "zucchini", "mushrooms", "spinach", "ricotta cheese"],
+    "rating": 4.3,
+    "cooking_method": "Boil noodles, saute vegetables, layer noodles and cheese, bake in oven"
+  },
+  {
+    "id": "14",
+    "chef_id": "5",
+    "recipe_name": "Roast Chicken and Vegetables",
+    "ingredients": ["chicken", "potatoes", "carrots", "onion", "rosemary"],
+    "rating": 4.8,
+    "cooking_method": "Season chicken and vegetables, roast in oven, serve hot"
+  },
+  {
+    "id": "15",
+    "chef_id": "5",
+    "recipe_name": "Beef Stroganoff",
+    "ingredients": ["beef sirloin", "mushrooms", "sour cream", "beef broth", "egg noodles"],
+    "rating": 4.6,
+    "cooking_method": "Brown beef and mushrooms, add broth and simmer, stir in sour cream, serve over noodles"
+  },
+  {
+    "id": "16",
+    "chef_id": "6",
+    "recipe_name": "Vegetarian Chili",
+    "ingredients": ["black beans", "kidney beans", "diced tomatoes", "onion", "bell pepper"],
+    "rating": 4.1,
+    "cooking_method": "Saute vegetables, add beans and tomatoes, simmer until thickened, serve hot"
+  },
+  {
+    "id": "17",
+    "chef_id": "6",
+    "recipe_name": "Shrimp Scampi",
+    "ingredients": ["shrimp", "linguine", "butter", "garlic", "lemon"],
+    "rating": 4.9,
+    "cooking_method": "Boil pasta, saute shrimp and garlic in butter, add lemon juice and serve over pasta"
+  },
+{
+    "id": "18",
+    "chef_id": "6",
+    "recipe_name": "Shrimp Scampi",
+    "ingredients": ["shrimp", "linguine", "butter", "garlic", "lemon"],
+    "rating": 4.9,
+    "cooking_method": "Boil pasta, saute shrimp and garlic in butter, add lemon juice and serve over pasta"
+  }
+]
